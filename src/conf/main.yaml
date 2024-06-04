@@ -1,0 +1,10 @@
+defaults:
+  - base_main
+  - conjunction_assessment: default
+  - orbit_simulation: default
+  - population_generation: default
+  - rule_analysis: default
+  - hydra
+  - _self_
+
+mode: population_generation
